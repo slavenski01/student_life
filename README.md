@@ -16,7 +16,7 @@
 * Сохранение позиции скролла в ресайклер вью после пересоздания активе
 * Bundle (объем памяти)
 * Нижний таббар и переключение через фрагмент менеджер
-* Serializable vs Parceleble (в чем разница, как устроены)
+* Serializable vs Parceleble (в чем разница, как устроены) - https://www.youtube.com/watch?v=tko54cjc79U&t=739s
 * Mvc, mvp, mvvm, mvi паттерны (отличия)
 * Dagger 2 (основные сущности, inject viewmodel, scope, singleton)
 * Retrofit 
