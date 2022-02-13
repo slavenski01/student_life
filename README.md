@@ -30,3 +30,4 @@
 * Room (миграция)
 * SQLite
 * ExoPlayer
+* REST FULL
