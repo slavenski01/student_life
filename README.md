@@ -31,3 +31,4 @@
 * SQLite
 * ExoPlayer
 * REST FULL
+* Socket
