@@ -33,3 +33,8 @@
 * REST FULL
 * Socket
 * DeepLinks
+* Тесты
+* Kotlin.serialisation
+* Kotlin.ktor
+* Коллекции
+* Флавор
