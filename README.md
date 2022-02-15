@@ -31,7 +31,7 @@
 * SQLite
 * ExoPlayer
 * REST FULL
-* Socket
+* Socket - https://www.youtube.com/watch?v=6YE7Q9RjuWk
 * DeepLinks
 * Тесты
 * Kotlin.serialisation
