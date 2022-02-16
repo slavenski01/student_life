@@ -13,7 +13,7 @@
 * Профайлер
 * Активити (ЖЦ, startActivityForResult)
 * Фрагменты (ЖЦ, бэкстек, arguments)
-* Потоки (Thread, Handler, Looper, Runnable и зачем он нужен)
+* Потоки (Thread, Handler, Looper, Runnable и зачем он нужен) - https://www.youtube.com/watch?v=e7fzvA6XCcc&t=785s
 * AsyncTask
 * Сохранение позиции скролла в ресайклер вью после пересоздания активе
 * Bundle (объем памяти)
